@@ -1,3 +1,5 @@
 #Teste de arquivo para diretorio Git/Versionamento
 
-#Criando novo Comentario
+##Criando novo Comentario
+
+* uso do comando restore
